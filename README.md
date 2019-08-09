@@ -1,5 +1,5 @@
 ---
-description: We write about how the world might look in the year 2050.
+description: We write about the future.
 ---
 
 # Welcome to VC2050
